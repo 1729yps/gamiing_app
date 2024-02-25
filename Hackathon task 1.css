@@ -1,0 +1,46 @@
+.head {
+    text-align: center;
+    font-size:xx-large;
+    font-weight: bold;
+    color: white;
+}
+
+.Sline {
+    color: white;
+    text-align: center;
+}
+
+.SHline {
+    color: white;
+    text-align: left;
+    font-size: large;
+    font-weight: bold;
+}
+
+.lline {
+    color: white;
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+.tline {
+    color: white;
+    text-align: left;
+}
+
+.button {
+    text-align: center;
+    color: white;
+    height: 36px;
+    width: 80px;
+    background-color:orange;
+    
+}
+
+.size {
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png ");
+    height: 75vh;
+    width: 22vw;
+    background-size: cover;
+}
+

@@ -1,0 +1,32 @@
+https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap%27);
+
+.pavani {
+  text-align: center;
+  background-color: azure;
+}
+
+.manu {
+  color: orange;
+}
+
+.Bcolor {
+  background-color: gray;
+}
+
+
+.pavi {
+  background-image: url("https://media.istockphoto.com/id/474966771/photo/seascape-and-sun-on-blue-sky.jpg?s=1024x1024&w=is&k=20&c=-GNom4CXHnOB_o9wIe-dK4WD5cDdAqmoAqiJplgbOs0="); /* Replace with the correct URL of your background image */
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+}
+
+.button-style{
+  height: 40px;
+  width: 150px;
+  background-color: azure;
+}
+
+.styl{
+  font-family: monoton;
+}

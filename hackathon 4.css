@@ -1,0 +1,36 @@
+.head {
+    font-size: xx-large;
+    font-family: bree Serif;
+    font-weight: bold;
+}
+
+.paragraph{
+    font-family: Roboto;  
+    font-size: larger;
+
+}
+
+.all{
+    background-image: url("https://www.shutterstock.com/image-photo/top-view-home-cooked-chinese-260nw-1711516789.jpg");
+    text-align: left;
+    color: #323f4b;
+    width: 35vw;
+    height: 70vh;
+    background-size: cover;
+    background-color:#f6c56e ;
+}
+
+.buttun{
+    background-color: #ffffff;
+    font-family: Roboto;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.end{
+    background-color: bisque; 
+    text-align: left;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    padding: 10px;
+}
